@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
+    background-color: black;
 }
 
 h1 {
@@ -32,5 +33,6 @@ p {
 
     p {
         font-size: 1em;
+        color:red;
     }
 }
