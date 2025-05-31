@@ -1,7 +1,7 @@
 {
     "name": "My GitHub.io App",
     "short_name": "MyApp",
-    "start_url": "https://evrenater.github.io/",
+    "start_url": "/",
     "display": "standalone",
     "icons": [
         {
